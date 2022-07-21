@@ -87,5 +87,5 @@ class Conexao:
         """
         Usado pela camada de aplicação para fechar a conexão
         """
-        # TODO: implemente aqui o fechamento de conexão
+        # TODO: implemente aqui o fechamento de conexãoo
         pass
